@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/326fdc2b-3a0e-4c15-87f1-a95f08d7100a" />
+
 # 🔍 Universal File Deduplicator
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -267,6 +269,9 @@ python deduplicator.py ~/projects --exclude node_modules .git __pycache__ dist b
 MIT License - see [LICENSE](LICENSE) for details.
 
 ---
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4797ca8a-8622-4724-a2ce-54034e90d978" />
+
+
 
 ## 🤝 Contributing
 
