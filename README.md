@@ -287,4 +287,4 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ by Team Brain @ Metaphy LLC
+Made with ❤️ by Randell Logan Smith and Team Brain @ Metaphy LLC
