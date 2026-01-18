@@ -287,4 +287,10 @@ Contributions welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ by Randell Logan Smith and Team Brain @ Metaphy LLC
+## 🙏 Credits
+
+Created by **Randell Logan Smith and Team Brain** at [Metaphy LLC](https://metaphysicsandcomputing.com)
+
+Part of the HMSS (Heavenly Morning Star System) ecosystem.
+
+---
